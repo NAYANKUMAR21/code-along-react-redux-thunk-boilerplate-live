@@ -1,0 +1,24 @@
+1. actions.type (Done)
+2. state (Initial Value) (done)
+3. reducer fn 
+
+Store (important thing to create a redux app)(redux is used)
+
+
+
+
+
+Install Dependency
+1. npm i redux
+2. npm i react-redux
+
+
+reduc-thunk
+1. dispatch(callback())  = useDispatch() (react-redux)
+2. Store
+3. calbackFn (fetching of data (API, fetch/axios method))
+4. reducerFN (based on the type it change the state)
+5. useSelector reads the data (react-redux)
+
+
+
